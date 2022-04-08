@@ -1,0 +1,79 @@
+.calc{
+    width:500px;
+    height:700px;
+    background-color:lightslategrey;
+    margin-left: 500px;
+    border-radius: 20px;
+}
+#elem{
+    margin-left: 10px;
+    width: 93%;
+    height: 40px;
+    margin-top: 50px;
+    padding-top: 50px;
+    border-radius: 30px;
+    pointer-events: none;
+    font-size: large;
+    padding-top: 20px;
+}
+.row1{
+    margin-left:30px;
+    width:70px;
+    margin-top: 10px;
+    height: 70px;
+    border-radius: 50px;
+    background-color:bisque;
+    
+}
+.row2{
+    margin-left:30px;
+    width:70px;
+    margin-top: 10px;
+    height: 70px;
+    border-radius: 50px;
+    font-size: 20px;
+    background-color:bisque;
+}
+.row3{
+    margin-left:30px;
+    width:100px;
+    margin-top: 10px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color:blanchedalmond;
+}
+.calcu{
+    font-family: cursive;
+    font-size: medium;
+    margin-left: 20px;
+    margin-top: 100px;
+
+}
+.row4{
+    margin-left:30px;
+    width:70px;
+    margin-top: 10px;
+    height: 80px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color:bisque;
+}
+.row5{
+    margin-left:30px;
+    width:70px;
+    margin-top: 10px;
+    height: 80px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color:bisque;
+}
+.row6{
+    margin-left:30px;
+    width:70px;
+    margin-top: 10px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color:bisque;
+}
